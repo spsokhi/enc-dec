@@ -20,8 +20,8 @@ This is a Python-based encryption and decryption tool with a graphical user inte
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/spsokhi/enc-dec.git
+   cd end-dec
 2. Create and activate a virtual environment:
     ```
     python -m venv env
