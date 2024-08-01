@@ -13,7 +13,7 @@ This is a Python-based encryption and decryption tool with a graphical user inte
 - Python 3.x
 - PyCryptodome
 - tkinter (usually included with Python)
-- PyInstaller (for creating executables)
+
 
 ## Installation
 
