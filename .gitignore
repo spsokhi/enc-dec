@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+caption_gen_env/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.spec
+
+# macOS-specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+*.env
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
