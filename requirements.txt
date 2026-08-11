@@ -1,1 +1,5 @@
+# Pinned to 50.0.0 for the fernet API used by this app.
+# 50.0.0 resolves CVE-2026-69249 (exponential cert path-building),
+# the wildcard-DNS permittedSubtrees escape, and the PKCS#7
+# Bleichenbacher oracle. Do not downgrade below 50.0.0.
 cryptography==50.0.0
